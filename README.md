@@ -1,3 +1,3 @@
 # React-Expense-Tracker
 
-[Demo] (https://jvqg1.csb.app/)
+[Demo](https://jvqg1.csb.app/)
